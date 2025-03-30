@@ -4,7 +4,7 @@ import DashboardSummary from '../components/DashboardSummary';
 import RecommendationSection from '../components/RecommendationSection';
 import NewsEventsSidebar from '../components/NewsEventsSidebar';
 import Footer from '../components/Footer';
-import '../styles/dashboard.css';
+import '../App.css';
 
 const DashboardPage = () => {
   return (
@@ -15,6 +15,7 @@ const DashboardPage = () => {
         <div className="dashboard-main-content">
           <RecommendationSection />
           <NewsEventsSidebar />
+          
         </div>
       </main>
       <Footer />
