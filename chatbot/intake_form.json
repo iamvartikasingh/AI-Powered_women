@@ -1,0 +1,36 @@
+ {
+    "name": "Ari",
+    "age_group": "28",
+    "country": "United States",
+    "city" : "Boston",
+    "language": "English",
+    "professional_role": [
+      "Marketing Manager at a Lifesciences company"
+    ],
+    "industry": "Marketing/Life sciences",
+    "resume_uploaded": "y",
+    "ai_competency_level": "Intermediate (integrating AI into specific roles & industries)",
+    "ai_tool_familiarity": [
+      "ChatGPT"
+    ],
+    "tech_comfort_level": "Moderately comfortable — I pick up new tech quickly",
+    "primary_interest": [
+      "Productivity & Efficiency",
+      "Creating & Scaling Digital Products"
+    ],
+    "problem_area_keywords": [
+      "workflow automation",
+     "reducing manual tasks, saving time"
+    ],
+    "preferred_learning_method": [
+      "Real-world Assignments",
+      "Podcasts",
+      "Short byte sized content"
+    ],
+    "weekly_learning_time": "2–4 hours",
+    "mentorship_interest": "Both mentor and peer group",
+    "mentor_peer_qualities": [
+              "Similar professional role/level"
+    ]
+  }
+ 
